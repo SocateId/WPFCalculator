@@ -53,35 +53,35 @@
 			FontSize="25"
 			FontWeight="Bold"
 			Content="+"
-			Click="NumBtn_Click"/>
+			Click="OperatorBtn_Click"/>
 		<Button 
 			x:Name="MinusBtn" 
 			Grid.Row="3" Grid.Column="3" 
 			FontSize="25"
 			FontWeight="Bold"
 			Content="-"
-			Click="NumBtn_Click"/>
+			Click="OperatorBtn_Click"/>
 		<Button 
 			x:Name="TimesBtn" 
 			Grid.Row="2" Grid.Column="3" 
 			FontSize="25"
 			FontWeight="Bold"
 			Content="×"
-			Click="NumBtn_Click"/>
+			Click="OperatorBtn_Click"/>
 		<Button 
 			x:Name="DivideBtn" 
 			Grid.Row="1" Grid.Column="3" 
 			FontSize="25"
 			FontWeight="Bold"
 			Content="÷"
-			Click="NumBtn_Click"/>
+			Click="OperatorBtn_Click"/>
 		<Button 
 			x:Name="EqualBtn" 
 			Grid.Row="5" Grid.Column="3" 
 			FontSize="25"
 			FontWeight="Bold"
 			Content="="
-			Click="NumBtn_Click"/>
+			Click="OperatorBtn_Click"/>
 		
 		
 		<!-- Zeroth (5) Number Row-->
